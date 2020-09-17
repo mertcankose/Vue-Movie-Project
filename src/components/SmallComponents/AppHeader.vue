@@ -1,7 +1,7 @@
 <template>
   <nav class="navbar navbar-dark bg-dark">
     <div class="container d-flex justify-content-between">
-      <router-link to="/" class="navbar-brand"
+      <router-link :to="{ name: 'Home' }" class="navbar-brand"
         >WELCOME TO MY CINEMA</router-link
       >
     </div>
@@ -9,7 +9,7 @@
 </template>
 
 <script>
-  export default {};
+export default {}
 </script>
 
 <style></style>

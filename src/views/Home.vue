@@ -16,9 +16,9 @@
 </template>
 
 <script>
-  import AppHeader from "../components/AppHeader";
-  import Loader from "../components/Loader";
-  import Movie from "../components/Movie";
+  import AppHeader from "../components/SmallComponents/AppHeader";
+  import Loader from "../components/SmallComponents/Loader";
+  import Movie from "../components/BigComponents/Movie";
   import { mapGetters } from "vuex";
   export default {
     name: "Home",

@@ -1,5 +1,5 @@
-{
-  "337339": {
+[
+  {
     "adult": false,
     "backdrop_path": "/jzdnhRhG0dsuYorwvSqPqqnM1cV.jpg",
     "belongs_to_collection": {
@@ -167,7 +167,7 @@
       }
     ]
   },
-  "315837": {
+  {
     "adult": false,
     "backdrop_path": "/lsRhmB7m36pEX0UHpkpJSE48BW5.jpg",
     "belongs_to_collection": null,
@@ -419,7 +419,7 @@
       }
     ]
   },
-  "283995": {
+  {
     "adult": false,
     "backdrop_path": "/8sFWWIolWPm2FQLNt9cSKpNZJcz.jpg",
     "belongs_to_collection": {
@@ -614,7 +614,7 @@
       }
     ]
   },
-  "274870": {
+  {
     "adult": false,
     "backdrop_path": "/5EW4TR3fWEqpKsWysNcBMtz9Sgp.jpg",
     "belongs_to_collection": null,
@@ -838,7 +838,7 @@
       }
     ]
   },
-  "324552": {
+  {
     "adult": false,
     "backdrop_path": "/4TBLjAhQe1zJfR3zdHMWTrwbdLd.jpg",
     "belongs_to_collection": {
@@ -1041,7 +1041,7 @@
       }
     ]
   },
-  "293167": {
+  {
     "adult": false,
     "backdrop_path": "/pGwChWiAY1bdoxL79sXmaFBlYJH.jpg",
     "belongs_to_collection": null,
@@ -1211,4 +1211,4 @@
       }
     ]
   }
-}
+]
